@@ -1,0 +1,582 @@
+[
+ {
+  "id": "womenswear-skill:0001",
+  "sourceId": "womenswear-skill",
+  "title": "都市街头·正面站姿",
+  "prompt": "电商女装模特实拍图,全身构图,正面机位。\n模特姿态:自然站立,双手插兜,肩膀自然放松,直视镜头,双腿微开重心平稳。\n场景:城市街道人行道,背景为商业街区与轻微虚化的店铺门头。\n摄影:街头时尚摄影,自然光充足照明,色彩还原准确,对焦清晰锐利。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "全身/正面 · 都市街头。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "都市街头",
+   "全身",
+   "正面"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0002",
+  "sourceId": "womenswear-skill",
+  "title": "都市街头·侧身迈步",
+  "prompt": "电商女装模特实拍图,四分之三构图,3/4侧机位。\n模特姿态:侧身迈步向前走,一只手自然摆动,回头看向镜头方向,裙摆/衣摆呈现自然动态。\n场景:城市街道人行道,背景为商业街区与轻微虚化的店铺门头。\n摄影:街头时尚摄影,自然光充足照明,色彩还原准确,对焦清晰锐利。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "四分之三/3/4侧 · 都市街头。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "都市街头",
+   "动感",
+   "3/4侧"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0003",
+  "sourceId": "womenswear-skill",
+  "title": "都市街头·倚靠街景",
+  "prompt": "电商女装模特实拍图,半身构图,侧面机位。\n模特姿态:侧身倚靠在路牌/灯柱旁,一只手自然抬至发间或轻搭包带,展现肩线与手臂线条。\n场景:城市街道人行道,背景为商业街区与轻微虚化的店铺门头。\n摄影:街头时尚摄影,自然光充足照明,色彩还原准确,对焦清晰锐利。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "半身/侧面 · 都市街头。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "都市街头",
+   "半身",
+   "侧面"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0004",
+  "sourceId": "womenswear-skill",
+  "title": "都市街头·正面全身",
+  "prompt": "电商女装模特实拍图,全身构图,正面机位。\n模特姿态:身体自然直立,双手垂在身侧或轻提衣角,下颌微抬,完整展示整体版型与垂坠感。\n场景:城市街道人行道,背景为商业街区与轻微虚化的店铺门头。\n摄影:街头时尚摄影,自然光充足照明,色彩还原准确,对焦清晰锐利。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "全身/正面 · 都市街头。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "都市街头",
+   "全身",
+   "正面"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0005",
+  "sourceId": "womenswear-skill",
+  "title": "街角咖啡·坐姿",
+  "prompt": "电商女装模特实拍图,全身构图,正面机位。\n模特姿态:坐在户外椅上,双腿并拢微侧,身体放松,一只手搭在桌沿轻触杯沿,展示正面剪裁。\n场景:临街咖啡馆外摆座位,背景为玻璃窗、木质桌椅和暖色自然光。\n摄影:都市通勤服饰摄影,柔和自然侧光,背景轻微虚化,商业成片质感。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "全身/正面 · 街角咖啡。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "咖啡店",
+   "坐姿",
+   "全身"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0006",
+  "sourceId": "womenswear-skill",
+  "title": "街角咖啡·持杯侧望",
+  "prompt": "电商女装模特实拍图,四分之三构图,3/4侧机位。\n模特姿态:站在咖啡店门口,一只手拿着咖啡杯,转头看向侧方,展现胸部以上轮廓与领口细节。\n场景:临街咖啡馆外摆座位,背景为玻璃窗、木质桌椅和暖色自然光。\n摄影:都市通勤服饰摄影,柔和自然侧光,背景轻微虚化,商业成片质感。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "四分之三/3/4侧 · 街角咖啡。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "咖啡店",
+   "3/4侧",
+   "生活方式"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0007",
+  "sourceId": "womenswear-skill",
+  "title": "街角咖啡·倚门回眸",
+  "prompt": "电商女装模特实拍图,半身构图,侧面机位。\n模特姿态:侧身倚靠在咖啡店门框旁,回眸看向镜头,展现背部/肩部线条,姿态放松自然。\n场景:临街咖啡馆外摆座位,背景为玻璃窗、木质桌椅和暖色自然光。\n摄影:都市通勤服饰摄影,柔和自然侧光,背景轻微虚化,商业成片质感。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "半身/侧面 · 街角咖啡。上传服装参考图(主图)与模特参考图后使用,可生成后调整。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "姿势",
+   "咖啡店",
+   "半身",
+   "回眸"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0008",
+  "sourceId": "womenswear-skill",
+  "title": "白底主图(电商首图)",
+  "prompt": "电商女装白底主图(电商首图)。\n画面:纯白色无缝背景,商品居中构图,四周留足安全边距(占画面约70%),无阴影或仅极浅自然阴影。\n规格:电商平台白底主图规范:主体完整无裁切,背景纯净无杂质,光线均匀无过曝。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "白底主图(电商首图):全身构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "白底主图",
+   "电商首图"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0009",
+  "sourceId": "womenswear-skill",
+  "title": "全身展示图",
+  "prompt": "电商女装全身展示图。\n画面:全身完整入镜,头顶与脚底各留约10%空间,姿态自然展示整体搭配与版型轮廓。\n规格:全身展示要求:从头到脚完整可见,站姿稳定,服装垂坠感与线条清晰。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "全身展示图:全身构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "全身展示"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0010",
+  "sourceId": "womenswear-skill",
+  "title": "半身展示图",
+  "prompt": "电商女装半身展示图。\n画面:取景腰部以上,重点展示领口、肩线、胸前剪裁与上半身版型,面部朝向镜头。\n规格:半身展示要求:领口结构清晰,肩线平直,面料质感可见。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "半身展示图:半身构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "半身展示",
+   "细节"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0011",
+  "sourceId": "womenswear-skill",
+  "title": "面料特写图",
+  "prompt": "电商女装面料特写图。\n画面:微距特写面料纹理与织法,光线斜射凸显质感,可局部展示纽扣/走线/拼接工艺。\n规格:面料特写要求:纹理放大清晰,颜色与实物一致,不改变材质外观。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "面料特写图:特写构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "面料特写",
+   "细节"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0012",
+  "sourceId": "womenswear-skill",
+  "title": "平铺摆拍图",
+  "prompt": "电商女装平铺摆拍图。\n画面:服装平铺于浅色/中性背景,俯拍90度,版型对称整齐,袖口领口整理自然。\n规格:平铺要求:衣物无褶皱堆叠,边缘整齐,颜色准确。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "平铺摆拍图:平铺构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "平铺摆拍"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0013",
+  "sourceId": "womenswear-skill",
+  "title": "挂拍展示图",
+  "prompt": "电商女装挂拍展示图。\n画面:服装挂在简约衣架上,背景干净,展现自然垂坠版型,衣架不喧宾夺主。\n规格:挂拍要求:衣架简洁,背景干净,领型保持自然不塌陷。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "挂拍展示图:挂拍构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "挂拍"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0014",
+  "sourceId": "womenswear-skill",
+  "title": "隐形人台展示(3D立体)",
+  "prompt": "电商女装隐形人台展示(3D立体)。\n画面:服装穿在透明隐形人台上,呈3D立体展示,可见前后完整版型,无真实人体。\n规格:隐形人台要求:立体感强,版型撑起自然,衣身无皱褶堆叠。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "隐形人台展示(3D立体):全身构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "隐形人台",
+   "3D"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0015",
+  "sourceId": "womenswear-skill",
+  "title": "多角度网格图",
+  "prompt": "电商女装多角度网格图。\n画面:同一件服装以正面/背面/侧面/细节四宫格或多宫格展示,风格光线一致。\n规格:多角度要求:各格角度标注清晰,光线与背景统一,服装一致性严格。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "多角度网格图:多图构图。上传服装参考图后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "输出规格",
+   "多角度网格"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0016",
+  "sourceId": "womenswear-skill",
+  "title": "杂志编辑大片风",
+  "prompt": "电商女装场景图:杂志编辑大片风。\n画面:高端时尚杂志内页大片,模特动态有张力,光影讲究,背景简洁高级,服装为视觉主角。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "杂志编辑大片风。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "杂志编辑",
+   "大片"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0017",
+  "sourceId": "womenswear-skill",
+  "title": "轻奢氛围大片",
+  "prompt": "电商女装场景图:轻奢氛围大片。\n画面:轻奢品牌广告氛围,暖调侧光,质感背景(大理石/丝绒/木饰面),低调高级感,突出面料光泽。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "轻奢氛围大片。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "轻奢",
+   "氛围"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0018",
+  "sourceId": "womenswear-skill",
+  "title": "UGC 买家秀风格",
+  "prompt": "电商女装场景图:UGC 买家秀风格。\n画面:真实买家秀风格,生活化场景(居家/通勤/旅行),手机摄影感,光线自然不刻意,亲和可信。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "UGC 买家秀风格。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "UGC",
+   "买家秀"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0019",
+  "sourceId": "womenswear-skill",
+  "title": "通勤日常街拍",
+  "prompt": "电商女装场景图:通勤日常街拍。\n画面:工作日通勤场景,写字楼/地铁口背景,自然行走抓拍感,日常真实穿着效果。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "通勤日常街拍。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "通勤",
+   "街拍"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0020",
+  "sourceId": "womenswear-skill",
+  "title": "约会场景",
+  "prompt": "电商女装场景图:约会场景。\n画面:傍晚城市夜景/餐厅/江边,暖色灯光,柔美氛围,展现约会穿搭的精致感。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "约会场景。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "约会",
+   "氛围"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0021",
+  "sourceId": "womenswear-skill",
+  "title": "直播间场景",
+  "prompt": "电商女装场景图:直播间场景。\n画面:泛化直播间画面(无平台Logo/无虚假销量文字),环形补光,服装上身展示清晰,背景简洁。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "直播间场景。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "直播间"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0022",
+  "sourceId": "womenswear-skill",
+  "title": "店铺陈列场景",
+  "prompt": "电商女装场景图:店铺陈列场景。\n画面:线下服装店铺内,模特站在货架/陈列区前,店铺灯光,真实档口氛围。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "店铺陈列场景。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "店铺陈列",
+   "档口"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0023",
+  "sourceId": "womenswear-skill",
+  "title": "季节 Campaign",
+  "prompt": "电商女装场景图:季节 Campaign。\n画面:当季主题营销视觉(春/夏/秋/冬),季节元素背景,整体色调统一,活动氛围感强。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "季节 Campaign。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "季节",
+   "Campaign"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0024",
+  "sourceId": "womenswear-skill",
+  "title": "多品组合穿搭",
+  "prompt": "电商女装场景图:多品组合穿搭。\n画面:同一系列2-3件单品组合搭配展示,风格统一,可含叠穿层次。\n严格保持参考服装的版型、材质、颜色与印花位置不变,不得改款、不得换色、不得改变面料质感。\n商业成片质感,专业电商服装摄影,色彩还原准确,对焦清晰锐利,细节丰富,8k。",
+  "description": "多品组合穿搭。上传服装参考图 + 场景参考图(可选)后使用。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "场景",
+   "组合",
+   "穿搭"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "generate",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0025",
+  "sourceId": "womenswear-skill",
+  "title": "版型材质颜色一致性约束",
+  "prompt": "严格参考商品图:版型结构、面料材质、颜色色值、印花/绣花/纽扣位置必须与参考图一致,禁止改款、换色、换面料。",
+  "description": "版型材质颜色一致性约束——可附加到任意生成提示词末尾/开头提升稳定性。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "约束",
+   "一致性"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "edit",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0026",
+  "sourceId": "womenswear-skill",
+  "title": "人物一致性约束",
+  "prompt": "模特面部特征、发型发色、身材比例与模特参考图保持一致,禁止换脸、变脸、改变妆容风格。",
+  "description": "人物一致性约束——可附加到任意生成提示词末尾/开头提升稳定性。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "约束",
+   "一致性",
+   "模特"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "edit",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0027",
+  "sourceId": "womenswear-skill",
+  "title": "多人同款一致性约束",
+  "prompt": "同一系列多张图中,模特为同一人,服装为同一件,场景光线可变化但服装颜色版型不可漂移。",
+  "description": "多人同款一致性约束——可附加到任意生成提示词末尾/开头提升稳定性。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "约束",
+   "一致性",
+   "系列"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "edit",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0028",
+  "sourceId": "womenswear-skill",
+  "title": "负面约束(防翻车)",
+  "prompt": "禁止:畸形手指、多余肢体、服装变形、印花文字乱码、面部崩坏、过曝死白、背景杂物、水印Logo。",
+  "description": "负面约束(防翻车)——可附加到任意生成提示词末尾/开头提升稳定性。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "约束",
+   "负面",
+   "防翻车"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "edit",
+  "imageModel": ""
+ },
+ {
+  "id": "womenswear-skill:0029",
+  "sourceId": "womenswear-skill",
+  "title": "换背景不换衣约束",
+  "prompt": "仅替换背景与光线,服装本体(含褶皱形态)保持与参考图一致,不得重绘服装结构。",
+  "description": "换背景不换衣约束——可附加到任意生成提示词末尾/开头提升稳定性。",
+  "referenceImageUrls": [],
+  "coverUrl": "",
+  "tags": [
+   "女装",
+   "约束",
+   "换背景"
+  ],
+  "author": "Hermes×商拍工坊提炼",
+  "sourceUrl": "https://github.com/lifei6671/commerce-shoot-studio",
+  "createdAt": "2026-09-09T02:32:59.443715+08:00",
+  "imageMode": "edit",
+  "imageModel": ""
+ }
+]
