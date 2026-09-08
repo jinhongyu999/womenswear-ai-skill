@@ -5,7 +5,7 @@
       "schemaVersion": 1,
       "id": "agent-core",
       "name": "Agent Core",
-      "description": "本地 Canvas Agent、对话、历史、模型、权限、附件、画布操作、MCP 与 Agent 凭据。(社区修复包 v2：去除 node_modules/.bin 符号链接并同步修正 service-tree.json，修复 Windows 安装校验失败)",
+      "description": "本地 Canvas Agent、对话、历史、模型、权限、附件、画布操作、MCP 与 Agent 凭据。(社区修复包 v3：去除符号链接+修正 service-tree+内置 LOCALAPPDATA 动态 node 补丁(MCP 免 Hermes 依赖)，修复 Windows 安装校验失败)",
       "version": "0.2.0",
       "minAppVersion": ">=0.5.9",
       "protocolVersion": "6",
@@ -30,8 +30,8 @@
         {
           "path": ".archive/agent-core-service-0.2.0-win32-x64.tar.gz",
           "url": "https://cdn.jsdelivr.net/gh/jinhongyu999/womenswear-ai-skill@main/ly-plugin-fix/agent-core-service-0.2.0-fixed2-win32-x64.tar.gz",
-          "size": 3934344,
-          "sha256": "74b5b77dbb342e418fd842131a1b0e7ea6cbaa76f05212d12a2539e0c3619515"
+          "size": 3975631,
+          "sha256": "02377741ea1ed6d27f049ee2b158aa830b88dc70bdb454d08775efb0ac9b70fa"
         }
       ],
       "runtime": {
@@ -55,8 +55,8 @@
         "asset": {
           "path": ".archive/agent-core-service-0.2.0-win32-x64.tar.gz",
           "url": "https://cdn.jsdelivr.net/gh/jinhongyu999/womenswear-ai-skill@main/ly-plugin-fix/agent-core-service-0.2.0-fixed2-win32-x64.tar.gz",
-          "size": 3934344,
-          "sha256": "74b5b77dbb342e418fd842131a1b0e7ea6cbaa76f05212d12a2539e0c3619515"
+          "size": 3975631,
+          "sha256": "02377741ea1ed6d27f049ee2b158aa830b88dc70bdb454d08775efb0ac9b70fa"
         },
         "tree": {
           "path": "service-tree.json",
